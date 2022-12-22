@@ -63,8 +63,8 @@ npm i @minecraft/server-ui@beta
         ],
         "min_engine_version": [
             1,
-            13,
-            0
+            19,
+            50
         ]
     },
     "modules": [
