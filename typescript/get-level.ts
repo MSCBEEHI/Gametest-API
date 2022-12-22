@@ -1,9 +1,8 @@
-import * as mc from '@minecraft/server'
+import * as mc from '@minecraft/server';
 
 /**
- * 
- * @param { mc.Player } 
- * @returns { number }
+ * @param { mc.Player } player
+ * @returns { number } player experience level
  */
 export function getLevel(player: mc.Player): number {
     let i = 0
