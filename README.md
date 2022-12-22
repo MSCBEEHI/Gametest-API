@@ -38,7 +38,7 @@ npm i @minecraft/server-gametest@beta
 * **@minecraft/server-ui**
 Terminal
 ```terminal
-npm i @minecraft/server-ui@beta
+npm i @minecraft/server-ui@beta 
 ```
 </details>
 ㅤ
