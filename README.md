@@ -26,19 +26,19 @@ Basic usage of manipulating server forms available in `@minecraft/server-ui` mod
 * **@minecraft/server**
 Terminal
 ```terminal
-npm i @minecraft/server
+npm i @minecraft/server@beta
 ```
 
 * **@minecraft/server-gametest**
 Terminal
 ```terminal
-npm i @minecraft/server-gametest
+npm i @minecraft/server-gametest@beta
 ```
 
 * **@minecraft/server-ui**
 Terminal
 ```terminal
-npm i @minecraft/server-ui
+npm i @minecraft/server-ui@beta
 ```
 </details>
 ㅤ
