@@ -1,4 +1,4 @@
-# Gametest API Project **Membership**
+# Gametest API
 
 * [EN] Includes all my gametest projects, members can use or study, but don't redistribute or modify credit files.
 * [TH] รวมโปรเจค Gametest API ทั้งหมดของผม โดยสำหรับสมาชิกสามารถนำไปใช้หรือศึกษาได้แต่ห้ามแจกจ่ายหรือแก้ไขเครดิตไฟล์

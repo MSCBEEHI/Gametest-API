@@ -24,8 +24,8 @@
         "noImplicitAny": true,
         "noImplicitReturns": false,
         "noImplicitUseStrict": false,
-        "outDir": "./javascript",
-        "rootDir": "./typescript",
+        "outDir": "src/javascript",
+        "rootDir": "src/typescript",
         "listFiles": false,
         "noEmitHelpers": true
     },
