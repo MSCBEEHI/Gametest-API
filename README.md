@@ -1,9 +1,8 @@
-# Gametest API
+# Script API
 
-* [EN] Includes all my gametest projects, members can use or study, but don't redistribute or modify credit files.
-* [TH] รวมโปรเจค Gametest API ทั้งหมดของผม โดยสำหรับสมาชิกสามารถนำไปใช้หรือศึกษาได้แต่ห้ามแจกจ่ายหรือแก้ไขเครดิตไฟล์
+This repository is full of api scripts written by MSC BEEHI.
 
-# JavaScripts and TypeScripts Setup / Modules
+# Setup / Modules
 Script Samples
 scripts
 Community driven scripts that use Script API to do all kinds of crazy stuff in Minecraft.
@@ -48,7 +47,7 @@ npm i @minecraft/server-ui@beta
 [Minecraft API Documentation](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/minecraft/server-admin/minecraft-server-admin)
 
 # Manifest JSON
-
+[Manifest Generator](https://manifest-generator.vercel.app/)
 ```json
 {
     "format_version": 2,
