@@ -1,4 +1,9 @@
 import * as mc from '@minecraft/server';
+/**
+ * @param target player
+ * @param callback function
+ * @returns use function
+ */
 export function doMove(target, callback) {
     const tick = mc.world.events.tick;
     const ui = tick.subscribe((eventData) => {
