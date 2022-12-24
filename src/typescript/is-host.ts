@@ -5,6 +5,5 @@ import * as mc from '@minecraft/server'
  * @returns {boolean} true or false
  */
 export function isHost(player: mc.Player): boolean {
-    const host = player.id === '-4294967295' || console.warn(player.id)
-    return 
+    return player.id === '-4294967295'
 }
