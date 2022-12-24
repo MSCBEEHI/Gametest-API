@@ -1,4 +1,5 @@
 import * as mc from '@minecraft/server';
+//tag @s add rank:<name>
 mc.world.events.beforeChat.subscribe((eventData) => {
     const player = eventData.sender;
     const rank = player.getTags().filter(t => t.startsWith('rank:')).map(p => `[${p.split(':')[1]}§r]`).join('');
