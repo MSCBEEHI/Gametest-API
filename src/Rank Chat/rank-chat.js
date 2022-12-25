@@ -6,7 +6,7 @@ mc.world.events.beforeChat.subscribe((eventData) => {
     const msg = eventData.message;
     eventData.cancel = true;
     if (rank[0])
-        player.tell(`${rank}§7${player.name}:§r ${msg}`);
+        mc.world.say(`${rank}§7${player.name}:§r ${msg}`);
     else
-        player.tell(`[§7MEMBER§r]§7${player.name}:§r ${msg}`);
+        mc.world.say(`[§7MEMBER§r]§7${player.name}:§r ${msg}`);
 });
